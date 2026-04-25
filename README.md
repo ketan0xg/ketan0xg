@@ -3,6 +3,8 @@
 🚀 Passionate Developer | Backend Focused  
 
 ---
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ketan0xg&color=blue)
 
 ## 💬 About Me
 - 💬 Ask me about **C#, ASP.NET MVC, Java, Python**
