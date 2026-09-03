@@ -8,7 +8,7 @@
 ## 💬 About me
 - 🔧 Backend developer focused on **C#, ASP.NET Core, EF Core, and SQL Server**
 - 🏗️ Building production web applications with **multi-tenant architecture** and **REST APIs**
-- 🎯 Actively strengthening **System Design** and **DSA** for interviews
+- 🎯 Actively strengthening **System Design** and **DSA**
 - 💬 Ask me about **ASP.NET MVC, Razor Pages, EF Core, jQuery, DataTables**
 
 📫 **ketan.vishwa5991@gmail.com**
